@@ -1,2 +1,1 @@
-# Azure
-Demo project
+Devops Project
